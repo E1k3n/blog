@@ -56,7 +56,7 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-  [[menu.secondary]]
+  [[menu.main]]
     identifier = "cheatsheets"
     name       = "Cheatsheets"
     url        = "/cheatsheets"

@@ -2,23 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-15T18:46:46+00:00</lastmod>
+    <loc>https://blog.eiken.io/posts/cybersecurity-graduate/</loc>
+    <lastmod>2024-07-15T06:46:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-15T18:46:46+00:00</lastmod>
+    <loc>https://blog.eiken.io/</loc>
+    <lastmod>2024-07-15T06:46:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/blog-post-template/</loc>
-    <lastmod>2024-07-08T20:03:46+02:00</lastmod>
+    <loc>https://blog.eiken.io/tags/informational/</loc>
+    <lastmod>2024-07-15T06:46:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-08T20:03:46+02:00</lastmod>
+    <loc>https://blog.eiken.io/posts/</loc>
+    <lastmod>2024-07-15T06:46:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/untagged/</loc>
-    <lastmod>2024-07-08T20:03:46+02:00</lastmod>
+    <loc>https://blog.eiken.io/tags/</loc>
+    <lastmod>2024-07-15T06:46:46+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://blog.eiken.io/cheatsheets/lists/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://blog.eiken.io/blog/</loc>
+  </url><url>
+    <loc>https://blog.eiken.io/cheatsheets/</loc>
+  </url><url>
+    <loc>https://blog.eiken.io/series/</loc>
   </url>
 </urlset>

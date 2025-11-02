@@ -2,19 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Informational on Hello Friend</title>
-    <link>http://localhost:1313/tags/informational/</link>
+    <link>https://blog.eiken.io/tags/informational/</link>
     <description>Recent content in Informational on Hello Friend</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 20:03:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/informational/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 06:46:46 +0200</lastBuildDate>
+    <atom:link href="https://blog.eiken.io/tags/informational/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Cybersecurity Graduate&#39;s Quest for digital glory</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>Introduction Is this thing on? Taps mic Helloooo, fellow cyberhumans! 👋 Your friendly neighborhood cybersecurity newbie here, fresh out of university with a degree in Digital Infrastructure and Cybersecurity. I&amp;rsquo;m ditching the metal shears for Caido/Burp and ready to dive headfirst into the wild world of ethical hacking. Buckle up, this is my first blog post.&#xA;Why Cybersecurity? Blame it on the Darknet Diaries. 🎧 This podcast (which I highly recommend, by the way) opened my eyes to a whole new universe while I was busy hammering metal at my old job in a tinsmithing firm.</description>
+      <title>A Cybersecurity Graduate&#39;s Quest For Digital Glory</title>
+      <link>https://blog.eiken.io/posts/cybersecurity-graduate/</link>
+      <pubDate>Mon, 15 Jul 2024 06:46:46 +0200</pubDate>
+      <guid>https://blog.eiken.io/posts/cybersecurity-graduate/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Is this thing on? &lt;em&gt;Taps mic&lt;/em&gt; Helloooo, fellow cyberhumans! 👋 Your friendly neighborhood cybersecurity newbie here, fresh out of university with a degree in Digital Infrastructure and Cybersecurity. I&amp;rsquo;m ditching the metal shears for Caido/Burp and ready to dive headfirst into the wild world of ethical hacking. Buckle up, this is my first blog post.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-cybersecurity&#34;&gt;Why Cybersecurity?&lt;/h2&gt;&#xA;&lt;p&gt;Blame it on the Darknet Diaries. 🎧 This podcast (which I highly recommend, by the way) opened my eyes to a whole new universe while I was busy hammering metal at my old job in a tinsmithing firm. Stories of elite hackers, shadowy figures, and digital espionage? I was hooked. I knew I had to trade in my yellow safety goggles for a pair of blue light glasses and make my mark in the cybersecurity world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Cybersecurity Graduate&#39;s Quest For Digital Glory</title>
+      <link>https://blog.eiken.io/cheatsheets/lists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.eiken.io/cheatsheets/lists/</guid>
+      <description>&lt;h1 id=&#34;linux-commands&#34;&gt;Linux commands&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

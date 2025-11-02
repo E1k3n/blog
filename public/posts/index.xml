@@ -1,50 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Hello Friend</title>
-        <link>http://localhost:1313/posts/</link>
-        <description>Recent content in Posts on Hello Friend</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Mon, 15 Jul 2024 06:46:46 +0000</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>My First Post</title>
-            <link>http://localhost:1313/posts/blog-post-template/</link>
-            <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
-            
-            <guid>http://localhost:1313/posts/blog-post-template/</guid>
-            <description>Template post Add content Add a new page to your site.
-hugo new content content/posts/my-first-post.md Hugo created the file in the content/posts directory. Open the file with your editor.
-+++ title = &amp;#39;My First Post&amp;#39; date = 2024-01-14T07:07:07+01:00 draft = true +++ Notice the draft value in the front matter is true. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.</description>
-            <content type="html"><![CDATA[<h1 id="template-post">Template post</h1>
-<h2 id="add-content">Add content</h2>
-<p>Add a new page to your site.</p>
-<pre tabindex="0"><code>hugo new content content/posts/my-first-post.md
-</code></pre><p>Hugo created the file in the content/posts directory. Open the file with your editor.</p>
-<pre tabindex="0"><code>+++
-title = &#39;My First Post&#39;
-date = 2024-01-14T07:07:07+01:00
-draft = true
-+++
-</code></pre><p>Notice the <strong>draft</strong> value in the front matter is <strong>true</strong>. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.</p>
-<p>Add some Markdown to the body of the post, but do not change the draft value.</p>
-<p>+++
-title = &lsquo;My First Post&rsquo;
-date = 2024-01-14T07:07:07+01:00
-draft = true
-+++</p>
-<h2 id="introduction">Introduction</h2>
-<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
-<p>Visit the <a href="https://gohugo.io">Hugo</a> website!
-Save the file, then start Hugo’s development server to view the site. You can run either of the following commands to include draft content.</p>
-<p>hugo server &ndash;buildDrafts
-hugo server -D
-View your site at the URL displayed in your terminal. Keep the development server running as you continue to add and change content.</p>
-<p>When satisfied with your new content, set the front matter draft parameter to false.&gt;)</p>
-]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on Hello Friend</title>
+    <link>https://blog.eiken.io/posts/</link>
+    <description>Recent content in Posts on Hello Friend</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 15 Jul 2024 06:46:46 +0200</lastBuildDate>
+    <atom:link href="https://blog.eiken.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Cybersecurity Graduate&#39;s Quest For Digital Glory</title>
+      <link>https://blog.eiken.io/posts/cybersecurity-graduate/</link>
+      <pubDate>Mon, 15 Jul 2024 06:46:46 +0200</pubDate>
+      <guid>https://blog.eiken.io/posts/cybersecurity-graduate/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Is this thing on? &lt;em&gt;Taps mic&lt;/em&gt; Helloooo, fellow cyberhumans! 👋 Your friendly neighborhood cybersecurity newbie here, fresh out of university with a degree in Digital Infrastructure and Cybersecurity. I&amp;rsquo;m ditching the metal shears for Caido/Burp and ready to dive headfirst into the wild world of ethical hacking. Buckle up, this is my first blog post.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-cybersecurity&#34;&gt;Why Cybersecurity?&lt;/h2&gt;&#xA;&lt;p&gt;Blame it on the Darknet Diaries. 🎧 This podcast (which I highly recommend, by the way) opened my eyes to a whole new universe while I was busy hammering metal at my old job in a tinsmithing firm. Stories of elite hackers, shadowy figures, and digital espionage? I was hooked. I knew I had to trade in my yellow safety goggles for a pair of blue light glasses and make my mark in the cybersecurity world.&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
